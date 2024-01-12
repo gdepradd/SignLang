@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665649258641",
+    "project_id": "imkproject-99143",
+    "storage_bucket": "imkproject-99143.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665649258641:android:afa990c24bd3e6fe41df30",
+        "android_client_info": {
+          "package_name": "com.example.projek_gede"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg2ZVb4ylRVXTHlpbCEUbbExs8ww7_Qg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
