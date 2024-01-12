@@ -1,17 +1,12 @@
-# projek_gede
+# SignLang (Ongoing)
 
-A new Flutter project.
+A Hackfest Project named **SignLang**, aimed to provide AI-assisted education and exercise in **Sign Language.**
 
-## Getting Started
+## Current Pages
 
-This project is a starting point for a Flutter application.
+| Sign Up | Login |
+|---------|-------|
+| ![Sign Up Page resized](https://github.com/gdepradd/SignLang/assets/90818914/26e6cb4e-a227-45d8-a911-3e7bd20828c8) | ![Login Page](https://github.com/gdepradd/SignLang/assets/90818914/bb5295c4-847e-465b-83ff-01a1db3c84c9) |
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# SignLang
